@@ -1,0 +1,7 @@
+.icon-left{position:absolute;top:10px;left:10px;}
+.icon-right{position:absolute;bottom:10px;right:10px;}
+.season-display{height:100vh;display:flex;justify-content:center;align-items:center;}
+.winter i{color:dodgerblue;}
+.winter{background-color:aliceblue;}
+.summer{background-color:papayawhip;}
+.summer i{color:orange;}
